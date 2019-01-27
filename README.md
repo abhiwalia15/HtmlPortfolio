@@ -10,6 +10,8 @@ It includes four files :
             services,
             contact
 
-All of the above file are written in html language and styling is done with the help of CSS-styling.
+All of the above file are written in html language.
+
+For styling we have used seprate 'style.css' file and styling is done with the help of CSS-styling.
 
  
